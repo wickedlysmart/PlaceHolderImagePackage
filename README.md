@@ -9,7 +9,7 @@ So You can use any swiftui-modifier to this.
 
 Perfect for Quick-Prototype SwiftUI Project !
 
-Built with [LoremPixcel](http://lorempixcel.com).
+Built with [LoremPixcel](http://lorempixel.com).
 
 
 ### Installation
