@@ -9,6 +9,9 @@ So You can use any swiftui-modifier to this.
 
 Perfect for Quick-Prototype SwiftUI Project !
 
+Built with [LoremPixcel](http://lorempixcel.com).
+
+
 ### Installation
 ---
 
@@ -20,7 +23,6 @@ Add https://github.com/wickedlysmart/PlaceHolderImagePackage.git
 
 That's it. 
 
-Built with [LoremPixcel](http://lorempixcel.com).
 
 ### Usage
 ---
