@@ -15,14 +15,17 @@ public class ImageLoader: ObservableObject {
     public enum Category: String {
         case abstract, animals, business, cats, city, food, nightlife, fashion, people, nature, sports, technics, transport
     }
-//
+
+/// if you want to change Image Services.........
+    
 //    public enum Category: String {
 //        case animals, arch, nature, people, tech   }
+
+//    private var url = "http://placeimg.com/320/180/"
     
     @Published var downloadedImage: UIImage?
     #warning("Add imageSize init parameter : Small, Medium, Large.")
     private var url = "http://lorempixel.com/320/180/"
-//    private var url = "http://placeimg.com/320/180/"
 
     
     public func load(from category: Category? = nil) {
