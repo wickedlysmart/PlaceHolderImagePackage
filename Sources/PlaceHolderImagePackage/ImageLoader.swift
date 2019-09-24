@@ -28,8 +28,6 @@ public class ImageLoader: ObservableObject {
     public func load(from category: Category? = nil) {
         if let category = category {
             self.url += category.rawValue
-        } else {
-            self.url += "any"
         }
         
         guard let imageURL = URL(string: self.url) else {
