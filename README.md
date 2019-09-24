@@ -12,6 +12,8 @@ Perfect for Quick-Prototype SwiftUI Project !
 Built with [LoremPixcel](http://lorempixel.com).
 
 
+![screenshot](https://cdn.clien.net/web/api/file/F01/9019055/3cc3276f4505ef.png?w=780&h=30000&gif=true)
+
 ### Installation
 ---
 
